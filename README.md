@@ -2,5 +2,5 @@
 
 ## Creating my Resume using LaTeX which is ATS friendly. 
 
-* Constructive Critisism will be appriciated. 
+* Constructive Criticism will be appriciated. 
 * You can find the code for the Resume in "Code for Resume" file.
