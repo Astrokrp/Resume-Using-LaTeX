@@ -108,8 +108,8 @@
 \begin{center}
     \textbf{\Huge \scshape Krutarth Patel} \\ \vspace{1pt}
     \small +64 22 409 7600 $|$ \href{mailto:x@x.com}{\underline{krutarth.patel.1@uni.massey.ac.nz}} $|$ 
-    \href{https://linkedin.com/in/...}{\underline{linkedin.com/in/Astrokrp}} $|$
-    \href{https://github.com/...}{\underline{github.com/Astrokrp}}
+    \href{https://linkedin.com/in/Astrokrp}{\underline{linkedin.com/in/Astrokrp}} $|$
+    \href{https://github.com/Astrokrp}{\underline{github.com/Astrokrp}}
 \end{center}
 
 
@@ -142,21 +142,21 @@
 \section{Projects}
     \resumeSubHeadingListStart
       \resumeProjectHeading
-          {\textbf{Automation using macros by VBA} $|$ \emph{VBA,Excel}}{June 2020 -- Aug 2020}
+          {\textbf{Automation using Macros in Excel} $|$ \emph{VBA}}{June 2020 -- Aug 2020}
           \resumeItemListStart
-            \resumeItem{Developed VBA scripts that records macros in Microsoft Excel and automates the report generation process for supply-chain operations in Countdown supermarkets.}
-            \resumeItem{Implemented replications of the VBA scripts to minimize the workload in Excel sheets.}
+            \resumeItem{Developed VBA scripts that records macros in Microsoft Excel that automates the report generation process for supply-chain operations in Countdown Supermarkets.}
+            \resumeItem{Implemented replications of the VBA scripts to minimize the workload for the employees.}
           \resumeItemListEnd
       \resumeProjectHeading
-          {\textbf{Data@Anz Virtual Internship} $|$ \emph{Python,R}}{June 2021 -- Aug 2021}
+          {\textbf{Data@Anz Virtual Experience Program} $|$ \emph{Python,R}}{July 2021 - 80 hours}
           \resumeItemListStart
-            \resumeItem{*****}
-            \resumeItem{*****}
-            \resumeItem{*****}
+            \resumeItem{Participated in the open access ANZ Virtual Experience Program with Forage.}
+            \resumeItem{Segmented the dataset and drew unique insights, including visualisation of the transaction volume and assessed the effect of outliers.}
+            \resumeItem{Explored correlations between customer attributes like age, annual salary etc. and built a regression prediction model based on the findings.}
             \resumeItem{*****}
           \resumeItemListEnd
       \resumeProjectHeading
-          {\textbf{KPMG Data Analytics Consulting Virtual Internship} $|$ \emph{Python,R,Tableau}}{Aug 2021 -- Nov 2021}
+          {\textbf{KPMG Data Analytics Consulting Virtual Experience Program} $|$ \emph{Python,R}}{July 2021 -- 80 hours }
           \resumeItemListStart
             \resumeItem{*****}
             \resumeItem{*****}
@@ -168,14 +168,14 @@
 \section{Certifications}
   \resumeSubHeadingListStart
     \resumeSubheading
-      {Google Data Analytics Professional Certificate}{ Dec 2021}
-      {Coursera}{}
+     {Data analysis and Visualization Tools in Python}{Oct 2020}
+     {Udemy}{}
      \resumeSubheading
-      {IBM Data Science}{Dec 2021}
-      {Coursera}{}
-     \resumeSubheading
-      {MY SQL} {Dec 2021}
+      {Complete SQL Mastery} {July 2021}
       {Code with Mosh Academy}{}
+    \resumeSubheading
+      {Google Data Analytics Professional Certificate}{ In Progress}
+      {Coursera}{}
   \resumeSubHeadingListEnd
 
 %
@@ -184,9 +184,9 @@
  \begin{itemize}[leftmargin=0.15in, label={}]
     \small{\item{
      \textbf{Languages}{:  R, Python, SQL, MATLAB, VBA } \\
-     \textbf{Frameworks}{:  Apache Spark, PyTorch, TensorFlow} \\
-     \textbf{Developer Tools}{:  Git, Google Cloud Platform, Visual Studio, PyCharm} \\
-     \textbf{Libraries}{:  pandas, NumPy, Matplotlib, Scikit-learn}
+     \textbf{Databases}{:  Microsoft SQL Server, MongoDB, Neo4j } \\
+     \textbf{Tools}{:  Excel, Tableau, Rstudio, Jupyter Notebook } \\
+     \textbf{Libraries}{:  pandas, NumPy, Matplotlib, Scikit-learn, ggplot, tidyverse}
     }}
  \end{itemize}
 
