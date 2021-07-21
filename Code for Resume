@@ -1,0 +1,195 @@
+%-------------------------
+% Resume in Latex
+% Author : Krutarth Patel
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+
+\begin{center}
+    \textbf{\Huge \scshape Krutarth Patel} \\ \vspace{1pt}
+    \small +64 22 409 7600 $|$ \href{mailto:x@x.com}{\underline{krutarth.patel.1@uni.massey.ac.nz}} $|$ 
+    \href{https://linkedin.com/in/...}{\underline{linkedin.com/in/Astrokrp}} $|$
+    \href{https://github.com/...}{\underline{github.com/Astrokrp}}
+\end{center}
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Massey University}{Palmerston North, NZ}
+      {Bachelor of Science, Major in Mathematics}{Feb 2018 -- Nov 2021}
+  \resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Customer Service Representative \& Barista}{Nov 2017 -- July 2021}
+      {BP}{Palmerston North, NZ}
+      \resumeItemListStart
+        \resumeItem{*****}
+        \resumeItem{*****}
+        \resumeItem{*****}
+        \resumeItem{*****}
+        \resumeItem{*****}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------
+\section{Projects}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{Automation using macros by VBA} $|$ \emph{VBA,Excel}}{June 2020 -- Aug 2020}
+          \resumeItemListStart
+            \resumeItem{Developed VBA scripts that records macros in Microsoft Excel and automates the report generation process for supply-chain operations in Countdown supermarkets.}
+            \resumeItem{Implemented replications of the VBA scripts to minimize the workload in Excel sheets.}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{Data@Anz Virtual Internship} $|$ \emph{Python,R}}{June 2021 -- Aug 2021}
+          \resumeItemListStart
+            \resumeItem{*****}
+            \resumeItem{*****}
+            \resumeItem{*****}
+            \resumeItem{*****}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{KPMG Data Analytics Consulting Virtual Internship} $|$ \emph{Python,R,Tableau}}{Aug 2021 -- Nov 2021}
+          \resumeItemListStart
+            \resumeItem{*****}
+            \resumeItem{*****}
+            \resumeItem{*****}
+            \resumeItem{*****}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+\section{Certifications}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Google Data Analytics Professional Certificate}{ Dec 2021}
+      {Coursera}{}
+     \resumeSubheading
+      {IBM Data Science}{Dec 2021}
+      {Coursera}{}
+     \resumeSubheading
+      {MY SQL} {Dec 2021}
+      {Code with Mosh Academy}{}
+  \resumeSubHeadingListEnd
+
+%
+%-----------PROGRAMMING SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{:  R, Python, SQL, MATLAB, VBA } \\
+     \textbf{Frameworks}{:  Apache Spark, PyTorch, TensorFlow} \\
+     \textbf{Developer Tools}{:  Git, Google Cloud Platform, Visual Studio, PyCharm} \\
+     \textbf{Libraries}{:  pandas, NumPy, Matplotlib, Scikit-learn}
+    }}
+ \end{itemize}
+
+
+%-------------------------------------------
+\end{document}
