@@ -107,18 +107,20 @@
 
 \begin{center}
     \textbf{\Huge \scshape Krutarth Patel} \\ \vspace{1pt}
-    \small +64 22 409 7600 $|$ \href{mailto:x@x.com}{\underline{krutarth.patel.1@uni.massey.ac.nz}} $|$ 
+    \small {\underline{+64 22 409 7600}} $|$ \href{mailto:x@x.com}{\underline{krutarth.patel.1@uni.massey.ac.nz}} $|$ 
     \href{https://linkedin.com/in/Astrokrp}{\underline{linkedin.com/in/Astrokrp}} $|$
     \href{https://github.com/Astrokrp}{\underline{github.com/Astrokrp}}
 \end{center}
-
 
 %-----------EDUCATION-----------
 \section{Education}
   \resumeSubHeadingListStart
     \resumeSubheading
       {Massey University}{Palmerston North, NZ}
-      {Bachelor of Science, Major in Mathematics}{Feb 2018 -- Nov 2021}
+      {Bachelor of Science, Major in Mathematics}{July 2017 -- Nov 2021}
+    \resumeSubheading
+      {Shree Valmiki Vidhyalaya}{Surat, India}
+      {High School Diploma (Science Discipline)}{June 2014 - June 2016}
   \resumeSubHeadingListEnd
 
 
@@ -129,14 +131,13 @@
       {Customer Service Representative \& Barista}{Nov 2017 -- July 2021}
       {BP}{Palmerston North, NZ}
       \resumeItemListStart
-        \resumeItem{*****}
-        \resumeItem{*****}
-        \resumeItem{*****}
-        \resumeItem{*****}
-        \resumeItem{*****}
+        \resumeItem{Greeted and served an average of 200+ customers daily, providing prompt, personalized, and friendly service in a fast-paced environment}
+        \resumeItem{Registered sales, looked after point of sale equipment and dispensed fuel for the customers.}
+        \resumeItem{Operated manual espresso machine and memorised orders and preferences for regular customers to build rapport. }
+        \resumeItem{Lead the team of 4 people to assist the manager on the weekends.}
+        \resumeItem{Assisted and helped with inventory, stocking shelves, and monitoring inventory.}
       \resumeItemListEnd
   \resumeSubHeadingListEnd
-
 
 %-----------PROJECTS-----------
 \section{Projects}
@@ -145,37 +146,44 @@
           {\textbf{Automation using Macros in Excel} $|$ \emph{VBA}}{June 2020 -- Aug 2020}
           \resumeItemListStart
             \resumeItem{Developed VBA scripts that records macros in Microsoft Excel that automates the report generation process for supply-chain operations in Countdown Supermarkets.}
-            \resumeItem{Implemented replications of the VBA scripts to minimize the workload for the employees.}
+            \resumeItem{Implemented replications of the VBA scripts to minimize the workload for the employees by 90 percent.}
+            \resumeItem {\href{https://github.com/Astrokrp/Automation-using-Macros-in-Excel}{\underline{Link to the project}}}
           \resumeItemListEnd
-      \resumeProjectHeading
-          {\textbf{Data@Anz Virtual Experience Program} $|$ \emph{Python,R}}{July 2021 - 80 hours}
-          \resumeItemListStart
-            \resumeItem{Participated in the open access ANZ Virtual Experience Program with Forage.}
-            \resumeItem{Segmented the dataset and drew unique insights, including visualisation of the transaction volume and assessed the effect of outliers.}
-            \resumeItem{Explored correlations between customer attributes like age, annual salary etc. and built a regression prediction model based on the findings.}
-            \resumeItem{*****}
-          \resumeItemListEnd
-      \resumeProjectHeading
-          {\textbf{KPMG Data Analytics Consulting Virtual Experience Program} $|$ \emph{Python,R}}{July 2021 -- 80 hours }
-          \resumeItemListStart
-            \resumeItem{*****}
-            \resumeItem{*****}
-            \resumeItem{*****}
-            \resumeItem{*****}
-          \resumeItemListEnd
+      %\resumeProjectHeading
+          %{\textbf{KPMG Data Analytics Consulting Virtual Experience Program} $|$ \emph{Python,R}}{July 2021 -- 80 hours }
+          %\resumeItemListStart
+            %\resumeItem{*****}
+           % \resumeItem{*****}
+           % \resumeItem{*****}
+            %\resumeItem{*****}
+          %\resumeItemListEnd
     \resumeSubHeadingListEnd
 
 \section{Certifications}
   \resumeSubHeadingListStart
+    \resumeProjectHeading
+          {\textbf{Data@Anz Virtual Experience Program} $|$ \emph{Python,R}}{July 2021 }
+          \resumeItemListStart
+            \resumeItem{Participated in the open access ANZ Virtual Experience Program with Forage.}
+            \resumeItem{Segmented the data-set and drew unique insights using Python, including visualisation of the transaction volume and assessed the effect of outliers.}
+            \resumeItem{Explored correlations between customer attributes like age, annual salary etc. and built a regression prediction model using R based on the findings.}
+            \resumeItem {\href{https://github.com/Astrokrp/Data-at-ANZ}{\underline{Link to the workings and certificate}}}
+          \resumeItemListEnd
+    \resumeSubheading
+     {Complete SQL Mastery} {July 2021}
+     {Code with Mosh Academy}{}
+        \resumeItemListStart
+            \resumeItem{\href{https://github.com/Astrokrp/Certificates}{\underline{Certificate}}}
+        \resumeItemListEnd
     \resumeSubheading
      {Data analysis and Visualization Tools in Python}{Oct 2020}
      {Udemy}{}
-     \resumeSubheading
-      {Complete SQL Mastery} {July 2021}
-      {Code with Mosh Academy}{}
+        \resumeItemListStart
+            \resumeItem{\href{https://github.com/Astrokrp/Certificates}{\underline{Certificate}}}
+        \resumeItemListEnd
     \resumeSubheading
-      {Google Data Analytics Professional Certificate}{ In Progress}
-      {Coursera}{}
+     {Google Data Analytics Professional Certificate}{ In Progress}
+     {Coursera}{}
   \resumeSubHeadingListEnd
 
 %
